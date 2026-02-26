@@ -1,0 +1,3018 @@
+% 20'lik insan albumini
+% 25 insulin lispro
+% 25 insulin lispro cozelti
+% 25'lik insan albumini
+% 50 insulin lispro
+% 50 insulin lispro cozelti
+% 50 insulin lispro protamin
+% 50 protamin suspansiyon
+% 75 insulin lispro protamin
+% 75 protamin suspansiyon
+(131i) iyobenguan sulfat (131i-mibg)
+(18 f)florodeoksiglukoz
+(18f)flutemetamol
+(s)-laktik asit
+0.42
+02
+03 mg
+06
+06 susu)
+1)a
+10a
+11
+11a
+123i (ioflupane)
+123i-iyobenguan(mibg-123i
+125
+12f
+14
+15
+15 pnomokok polisakkarit serotipi: 1
+15b
+16
+17 d susu
+17f
+18
+18 l1 proteinleri)
+18)
+18c
+19a
+19f
+20
+2008 (victoria soyu)
+2009
+2009 (h1n1)pdm09 - (a
+2012
+2012 (h3n2) - (a
+2012(yamagata soyu) 4) b
+2013
+2013 - (b
+2016
+2017
+2017 (h3n2) - (a
+2017- (b
+2018
+2018 (h1n1)pdm09 - (a
+2020 susu) antijeni
+22f
+23 pnomokok serotipleri: 1
+23 pnomokokkal polisakkarit serotipi: 1
+23f
+254’ten dis membran vezikulleri (omv)
+2cc
+3 susu (canli
+3 susu)
+3)
+3073
+31
+33
+33f
+42 - sodyum klorur
+45
+5-aminolevulinik asit
+5-florourasil
+5-fluorourasil
+50
+52
+58] (rekombinant
+5mg klavulanik asit
+60
+6a
+6b
+7f
+8-metoksipsoralen
+86 g olarak)
+9-valan insan papillomavirus tipleri [tip 6
+9n
+9v
+[18f] florokolin
+[18f]-florodopa
+a vitamini
+a vitamini (retinol asetat)
+abakavir
+abakavir sulfat
+abatacept
+abemasiklib
+abirateron asetat
+abrositinib
+absiksimab
+acetylcysteine
+aciclovir
+adalimumab
+adapalen
+adefovir dipivoksil
+adenozin
+adrenalin
+adrenalin baz
+adsorbe)
+aessin
+afatinib dimaleat
+aflibersept
+agalsidase alfa
+agalsidaz beta
+agni casti fructus
+akalabrutinib
+akalabrutinib maleat
+akamprosat
+akarboz
+aklidinyum bromur
+aksitinib
+aktif karbon
+aktif komur
+aktive attapuljit
+alanin
+alanyl glutamine
+albendazol
+albumin
+albutrepenonakog alfa (albumin ile koagulasyon faktoru ix’u baglayan rekombinant fuzyon proteini
+alemtuzumab
+alendronat
+alendronat monosodyum trihidrat
+alendronat sodyum trihidrat
+alendronik asit
+alfa lipoik asit
+alfa lipoik asit (tioktik asit)
+alfa1-proteinaz i̇nhibitoru (i̇nsan
+alfalipoik asit
+alginic acid
+alglukosidaz alfa
+alkaftadin
+alklometazon dipropiyonat
+allantoin
+allergen extracts
+aloglipin benzoat
+alogliptin benzoat
+alpelisib
+alpinia officinarum
+alprostadil alfadex kompleksi
+alteplaz
+aluminyum hidroksiklorit
+aluminyum hidroksit
+aluminyum klorid hidroksid kompleksi
+alumniyum hidroksit
+alverin sitrat
+amantadin
+amantadin sulfat
+ambroksol
+ambroksol hci
+amfoterisin b
+amiadoron
+amikacin sulfat
+amikasin
+amikasin sulfat
+amilorid
+amino acids
+aminoasit
+aminoasit iv l-treonin
+aminoasit kompleksi
+aminofilin
+amiodaron
+amisulprid
+amitriptilin
+amlodipin
+amlodipin besilat
+amlodipin maleat
+amlodipinb
+amlodipine and hydrochlorothiazide
+amlodi̇pi̇n bes.
+amoksetin
+amoksisilin trihdrat
+amoksisilin trihidrat
+amonyum klorur
+amorolfin
+amoxicillin and 28
+amoxicillin and 57mg klavulanik asit
+amoxicillin and clarithromycin
+amoxicillin and enzyme inhibitor
+amoxicillin trihydrate and potassium clavulanate
+ampicillin and enzyme inhibitor
+ampicillin trihidrat
+ampisilin
+ampisilin 250mg
+ampisilin 500mg
+ampisilin susuz
+ampisilin trihidrat
+anagrelid
+anakinra
+anastrozol
+androctonus australis hector
+androctonus crassicauda akrep venomlarina karsin immunoglobulin f(ab')2 fragmanlari (at kokenli)
+androctonus crassicauda akrep venomuna karsin immunoglobulin f(ab')2 fragmanlari (at kokenli)
+andusomeran
+anestezin
+anesthetics
+anesthetics for topical use
+anhidr glukoz
+anhidr sitrik asit
+anhidroz beklometazon dipropiyonat
+anhidroz piroksikam
+anifrolumab
+antacids
+antacids with antiflatulents
+anti-d (rh) immunoglobulin
+anti-d (rh) insan immunoglobulini
+anti-d immunoglobulin
+anti-d insan immunglobulini
+anti-d i̇nsan i̇mmunoglobulini
+antihemofilik faktor
+antihemofilik faktor ix
+antiinflammatory preparations
+antikuduz immunoglobulin f(ab)2 fragmenti (at kokenli)
+antikuduz immunoglobulin fragmanlari-ekuin
+antimycotique
+antipruritics
+antipsoriatics for topical use
+antithrombin iii
+antithymocyte immunoglobulin (rabbit)
+antitimosit immunoglobulin (tavsan)
+antivaricose therapy
+apalutamit
+apiksaban
+apomorfin
+apomorfin hidroklorid
+apomorfin hidroklorur hemihidrat
+aprotinin
+aprotininkombi set ii: trombin
+arformoterol tartarat
+aripipirazol
+aripiprazol
+aripirazol
+aritilmis propiolakton ile inaktive edilmis
+aritilmis rekombinant insan epidermal buyume faktoru aritilmis bulku
+aritilmis tetanoz toksoidi (aluminyum hidroksite adsorbe)
+arjinin
+arsenik trioksit
+artificial tears and other indifferent preparations
+artikain
+asciminib
+asebutolol
+aseklofenak
+aseluler adsorbe bogmaca: bogmaca toksoidi
+asemetasin
+asemetazin
+asetaminofen
+asetazolamid
+asetil salisik asit
+asetil salisilik asit
+asetil sistein
+asetilsalisalik asit
+asetilsalisilik asi
+asetilsalisilik asit
+asetilsistein
+asetilsitein
+asfotase alfa
+asiklovir
+asitretin
+askorbik asit
+askorbik asit (c vitamini)
+askorbik asit (vit c)
+askorbik asit (vitamin c)
+askorbik asit(vitamin c
+asparaginase
+aspartam
+aspartik asit
+astemizol
+at kaynakli anti t-lenfosit immunoglobulin
+atenolol and thiazides
+atenue sarihumma virusu
+atenue su cicegi virusu
+atenue varisella zoster (su cicegi) virusu (mav
+atenue)
+atenue) kabakulak virusu jeryl lynn (b duzeyi) susu (canli
+atenue) kizamikcik virusu wistar ra 27
+atenue) su cicegi virusu oka
+atezolizumab
+atomeksin
+atomoksetin
+atomoksetinhidroklorur
+atorvastatin kalsiyum
+atorvastatin kalsiyum trihidrat
+atracurium
+atrakuryum besilat
+atrformoterol tartarat
+atropin sulfat
+attapulgite
+avalglukozidaz alfa
+avelumab
+avibaktam
+azasitidin
+azelaik asit
+azelastin
+azilsartan kamedoksomil
+azitromisin dihidrat
+b kalsiyum
+b kompleks vitamin
+b vitamini
+b vitaminleri kompleksi
+b1
+b1 vitamini (tiamin hidroklorur)
+b1 vitamini 25 mg
+b12
+b12 (siyanokobolamin)
+b12 vitamin
+b12 vitamini (siyanokobalamin )
+b12 vitamini (siyanokobalamin)
+b12 vitamini 0
+b12 vitaminleri
+b2
+b2 vitamini
+b2 vitamini 5 mg
+b6
+b6 vitamini
+b6 vitamini (piridoksin hidroklorur)
+b6 vitamini 10 mg
+bakampisilin
+bakir sulfat pentahidrat
+baklofen
+baloksavir marboksil
+barisitinib
+barium sulfate
+barium sulfate with suspending agents
+baryum sulfat
+basiliksimab
+basitrasin
+baso4
+bcg vaccine
+beclometasone
+bedakuilin
+beklametazon dipropiyonat
+beklometazon dipropiyonat
+beklometazon dipropiyonat anhidr – formoterol fumarat dihidrat
+beklometazon dipropiyonat anhidroz – formoterol fumarat dihidrat
+beklometazon dipropiyonat formoterol fumarat dihidrat
+beklometazon dipropriyonat
+beksaroten
+belimumab
+belladonna and derivatives in combination with psycholeptics
+belumosudil mesilat
+bemiparin
+bempedoik asit
+bendamustin
+benfotiamin
+benidipin
+benidipin hci
+benralizumab
+benserazid
+benzalkonyum klorur
+benzathine benzylpenicillin
+benzatin benzil penisilin
+benzatin benzilpenisilin
+benzatin fenoksimetil penisilin
+benzetamofillin
+benzidamin
+benzidamin hci
+benzil alkol
+benzil benzoat
+benzil nikotinat
+benzoil peroksit
+benzoil peroksit %5
+benzoil peroksit (sulu)
+benzoilperoksit
+benzokain
+benztropin mesilat
+benzyl benzoate
+beraktant
+berotralstat dihidroklorur
+besifloksasin hci
+betacarotene
+betahistidin dihidroklorur
+betahistin dihidroklorur
+betahi̇sti̇n di̇hi̇droklorur
+betain
+betaksolol
+betametazon
+betametazon (17-valerat seklinde)
+betametazon 17-valerat
+betametazon asetat
+betametazon dipropionat
+betametazon dipropiyonat
+betametazon disodyum fosfat
+betametazon sodyum fosfat
+betametazon sodyumfosfat
+betametazon valerat
+betametazondipropionat
+betamethasone and antiinfectives
+betiatide
+bevacizumab
+bicisate dihidroklorur
+bifazik izofan biyosentetik insan insulini
+bifidobacterium breve
+bifidobacterium infantis
+bifonazol
+bikalutamid
+biktegravir
+bilastin
+bile acid preparations
+bimataprost
+bimekizumab
+binimetinib
+biotin
+birimonidin tartarat
+bisakodil
+bisoprolol and thiazides
+bisoprolol fumarat
+bisoprolol fumarate
+bit b1
+bivaluridin
+biyosentetik insan insulini
+bizmut subgallat
+bizmut subhidrat
+bizmut subsalisilat
+bleomisin sulfat
+blinatumomab
+bogmaca
+bogmaca antijenleri
+bordetella pertussis antijenleri (pertussis toksoidi (pt)
+bordetella pertussis antijenleri: bogmaca toksoidi
+bordetella pertussis antijenleri: pertussis toksoidi
+borik asit
+bornaprine
+bortezomib [mi]
+botulinum toksini tip a
+brekspiprazol
+brentuksimab vedotin
+brimonidin tartarat
+brimonidine tartrate
+brinzolamid
+brisbane
+brivarasetam
+brivudin
+brolucizumab
+bromeksin
+bromfenak sodyum seskihidrat
+bromheksin
+bromhexine
+bromokriptin
+bromokriptin mesilat
+budesonid
+budezonid
+bupivakain
+bupivakain hidroklorur
+buprenorfin
+bupropiyon
+buspiron
+butamirat sitrat
+butamirate
+butamitrat sitrat
+butenafin
+buthus occitanus
+butylscopolamine and analgesics
+b’den elde edilmis prefuzyon f antijeni
+c vitamini
+c vitamini (askorbik asit)
+c-1 esteraz inhibitoru
+c1-esteraz inhibitoru
+ca pantohenat
+calcitonin (salmon synthetic)
+calcium
+calcium (different salts in combination)
+calcium acetate anhydrous
+calcium and colecalciferol
+calcium and magnesium compounds
+calcium folinate
+calcium pantothenate (vitamin b5)
+calcium pantothenate(vitamin b5)
+california
+california7
+canakinumab
+candesartan
+candesartan and diuretics
+canli
+canli atenue kabakulak virusu (rit 4385 susu)
+canli atenue kizamik virusu
+canli atenue kizamik virusu (schwarz susu)
+canli atenue kizamikcik virusu (wistar ra 27
+canli zayiflatilmis varisella virusu
+caplacizumab
+capsaicin and similar agents
+carbohydrates
+carglumic acid
+caries prophylactic agents
+castor oil
+cefalexin
+ceftriaxone disodyum
+centella asiatica (gotu cola) ekst.
+centella asiatica ekstresi
+cephradine
+certolizumab pegol
+cetrorelix
+cetuximab
+cetylpyridinium
+cfu bcg tice susu
+chlorpheniramine
+chorionic gonadotrophin
+ciclosporin
+cink oksit
+cinko glukonat
+cinko monoetil fumarat
+cinko oksit
+cinko sulfat
+cinko sulfat heptahidrat
+cinko sulfat heptahidrat0
+cinko sulfatheptahidret
+cinkooksit
+cinkosulfat heptahidrat
+ciprofloxacin hci
+cisatrakuryum
+cisplatinum
+clavulanic acid
+clindamycin fosfat
+clostridium botilinum tip a toksinhemaglutinin kompleksi
+co-enzim b12
+coagulation factor ix
+coagulation factor viii
+cobamamide
+codeine phosphate
+colecalciferol
+collagenase
+colorado
+combinations
+combinations and complexes of aluminium
+combinations excl. corticosteroids
+combinations excl. psycholeptics
+combinations of antihistamines
+combinations of electrolytes
+combinations of imidazole derivatives
+combinations of levothyroxine and liothyronine
+combinations with diphtheria toxoid
+combinations with mumps and rubella
+combinations with psycholeptics
+combinations with vitamin d and
+concentrates
+copper (ii) oxide
+crm197 tasiyici proteine konjuge edilmis polisakkarit serotip 1
+cromoglicic acid
+cyanocobalamin (vitamin b12)
+cyanocobalamin (vitaminb12)
+cyanocobalamin tannin complex
+cyproterone
+d-alfa-tokoferol
+d-alfatokoferol asetat
+d-biotin
+d-pantenol
+d3 vitamini
+d3 vitamini (kolekalsiferol)
+dabrafenib mesilat
+dabrafenib mesilat
+dakarbazin
+dakomitinib
+damoktokog alfa pegol (rekombinant insan koagulasyon faktor viii)
+dapagliflozin propandiol
+dapoksetin
+dapoksetin hci
+dapson
+daptomisin
+daratumumab
+darbepoetin alfa
+darolutamit
+dasabuvir sodyum
+daunorubisin
+deferasiroks
+deferipron
+deferoksamin metansulfonat
+deflazakort
+deksametazin-21-fosfat
+deksametazon
+deksametazon disodyum fosfat
+deksametazon fosfat
+deksametazon sodyum fosfat
+deksibuprofen
+deksketoprofen tometamol
+deksketoprofen trometamol veparasetamol
+dekslansoprazol
+dekslansoprazolve domperidon maleat
+deksmedetomidin
+dekspantenol
+deksrabeprazol
+dekstoz
+dekstran
+dekstran 40
+dekstran 70
+dekstran-70 1.0 mg hidroksipropil metil seluloz
+dekstrometorfan
+dekstrometorfan hbr
+dekstrometorfan hidrobromur
+dekstroz anhidrat
+dekualinyum klorur
+dekzametazon
+delafloksasin meglumin
+demetilklortetrasiklin
+demir (ii) glisin sulfat kompleksi
+demir (ii) glisinsulfat kompleksi
+demir (ii) glukonat
+demir (iii hidroksit polimaltoz kompleksi
+demir (iii hidroksit sukroz kompleksi
+demir (iii) hidroksit polimaltoz kompleksi
+demir (iii) hidroksit sukroz kompleksi
+demir (iii) polimaltoz kompleksi
+demir 3 protein
+demir amonyum sitrat
+demir dekstran
+demir fumarat
+demir glukonat
+demir hidroksit sukroz kompleksi
+demir ii sulfat
+demir iii
+demir iii hidroksi polimaltoz kompleksi
+demir iii hidroksit polimaltoz kompleksi
+demir iii hidroksit sukroz kompleksi
+demir iii sukroz kompleksi
+demir karboksimaltoz
+demir polimaltoz kompleksi
+demir protein suksinilat
+demir proteinsuksinilat
+demir sukroz kompleksi
+demir(ii)-glisin
+denosumab
+dermatophagoides farinae)
+desfluran
+desitabin
+desloratadin
+deslorotadin
+desmopresin asetat hidrat
+desmopressin asetat
+dexamethasone and antiinfectives
+dexpantenol)
+dexpanthenol
+dextran
+dextromethorphane
+dextrose
+dha)
+di-iyodohidroksikinolin
+di-sodyum hidrojen fos-fat heptahidrat
+diaserein
+dibazik potasyum fosfat
+dibazik sodyum fosfat
+dibazik sodyum fosfat anhidroz
+dibazik sodyum fosfat dodekahidrat
+dibazik sodyum fosfat heptahidrat
+diclofenac sodium
+diclofenak
+diclofenak dietilamonyum
+didrogesteron
+dietilamin salisilat
+dietilamin salisilat essin
+dietilen triamin penta asetik asit kalsiyum trisodyum hidrat
+difenhidramin
+difenhidraminhidroklorur
+difenoksilat hidroklorid
+diflorazon diasetat
+diflukortolon valerat
+diflukotolon valerat
+difluprednat
+difteri
+difteri toksoidi
+difteri toksoidi (dt)
+diger ilaclarla kombine elektrolitler
+digoksin
+dihidroergotoksin etansulfonat
+dihidroksialuminyum aminoasetat
+dihidroksipropil teofilin
+dihydroxialumini sodium carbonate
+diklofenak asit
+diklofenak dietilamin
+diklofenak dietilamonyum
+diklofenak epolamin
+diklofenak sodyum pellet
+diklorofen
+diltiazem hidroklorur
+diltizem
+dimenhidrinat
+dimerkaptosuksinik asit
+dimethyl fumarat
+dimetil fumarat
+dimetinden maleat
+dionie
+dionin
+diosmin
+dipiridamol
+dipotasyum fosfat
+diprophylline
+diritromisin
+disodyum fosfat dihidrat
+disodyum hidrojen fosfat dodekahidrat
+disodyum hidrojenfosfat
+disodyum klodranat
+disopiramit fosfat
+dithranol
+dl-alfa tokoferol
+dl-α-tokoferol asetat
+dobutamin
+dogal akciger surfektani
+doksapram
+doksazosin
+doksazosin mesilat
+doksepin
+doksilamin
+doksisiklin
+doksisiklin hiklat
+doksofilin
+doksorubisin
+domperdion pellet
+domperidon
+domperidon maleat
+domperidon pellet
+donepezil hci
+donmperidon pellet
+dopamin
+doravirin
+dornase alfa
+dorzalamid hidroklorur;timolol maleat
+dorzolamid
+dosetaksel
+dosetaksel trihidrat
+doxazosin mesylate
+drospirenon
+dulaglutide
+duloksetin
+duloksetin hidroklorur pelletleri
+dupilumab
+durvalumab
+dutasterid
+dvitamini(kolekalsiferol)
+e vitamini
+e vitamini-asetat
+ebastin
+eculizumab
+edetates
+edoksaban tosilat
+efedrin
+efedrin hci
+eflornitin hidroklorur
+efmoroktokog alfa
+eftrenonakog alfa (rekombinant i̇nsan pihtilasma faktoru ix)
+ekonazol nitrat
+eksemestan
+eksenatid
+ekulizumab
+ekzametazim
+elacestrant dihidroklorur
+electrolytes
+electrolytes in combination with other drugs
+electrolytes with carbohydrates
+elektrolit cozeltisi
+elektrolitler
+elementer demir
+eletriptan hidrobromur
+eliglustat tartarat
+elranatamab
+eltrombopag olamin
+eltrombopag seskietanolamin
+emedastin difumarat
+emicizumab
+empagliflozin [vandf]
+emtrisitabin
+enalapril and diuretics
+enalapril and nitrendipine
+enalapril maleat
+enalapril maleate and nitrendipine
+enfortumab vedotin
+enkorafenib
+enoksanarin
+enoksaparin
+enoksasin
+enoksolon
+enoxaparin
+entakapon
+entekavir
+entrektinib
+enzalutamid
+epcoritamab
+epinastin
+epinefrin
+epinefrin (adrenalin baz)
+epinefrin baz
+epinefrin bitartarat
+epirubisin
+eplerenon
+epoetin alfa
+epoetin alfa (rekombinant insan eritropoietini)
+epoetin beta
+epoetin zeta
+eptacog alfa aktiflestirilmis
+eptakog alfa (aktiflestirilmis) (rekombinant koagulasyon faktoru viia)
+eptifibatid
+eragem-001
+erdafitinib
+erdostein
+erenumab
+ergokalsiferol
+ergotamin tartarat
+ergotamin tartarat kafein
+eribulin mesilat
+eritromisin
+eritromisin base
+eritromisin estolat
+eritropoietin alfa
+erythropoietin
+esans girofle
+esketamin
+esomeprazol
+esomeprazol magnezyum dihidrat
+esomeprazol magnezyum trihidrat
+esomeprazol sodyu
+essin
+essin dietilamin salisilat
+essitalopram
+essitalopram oksalat
+essitalopram okzalat
+estradiol hemihidrat
+estradiol propionate
+estradiol valerat
+estramustin sodyum fosfatmonohidrat
+etambutol
+etanercept
+etanersept
+etc.
+etelkalsetid
+etfenamat
+ethyl esters of iodised fatty acids
+etidronat di
+etinidiol diasetat
+etinil estradiol
+etinilestradiol
+etinilestradiol 0.02 mg
+etinilostradiol
+etinodiol diasetat
+etionamid
+etodolak
+etofenamat
+etofenamat benzil nikotinat
+etofenomat
+etoposid
+etosuksimid
+etotenamat
+etrasimod l-arjinin
+etravirin
+ev tozu akarlarinda standardize alerjen ekstrakti (dermatophagoides pteronyssinus
+evolocumab
+extractum cepae
+ezetimib
+ezetimip
+factor ix
+faktor 8
+faktor ii
+faktor ix
+faktor vii
+faktor viii inhibitor by-pass aktivitesine sahip insan plazma proteini
+faktor x
+famotidin
+fampiridin
+faricimab
+fat
+fat emulsions
+favipiravir
+fe iii hidroksit polimaltoz kompleksi
+febuksostat
+fedratinib dihidroklorur
+feksofenadin
+felodipin
+fenamates
+fenaramin hidrojen maleat
+fenazon
+fenfluramin
+fenilalanin
+fenilbatazon
+fenilefrin
+fenilefrin hci
+fenilerin
+fenilnefrin
+fenilpropanolamin
+feniramidol
+feniramin hidrojen maleat
+feniramin maleat
+fenirmain maleat
+fenitoin
+fenobarbital
+fenofibrat
+fenofibrat (mikronize)
+fenofibrik asit
+fenoksietanol
+fenoksimetil penisilin
+fenoksimetilpenisilin
+fenoksimetilpenisilin benzatin
+fenol
+fenolftalein
+fenoterol and ipratropium bromide
+fenoterol hidrobromur
+fenprobamat
+fentanil
+fentanil sitrat
+fentanyl citrate
+fentikanozol nitrat
+fentikonazol nitrat
+fenyramidol
+ferri amonyum sitrat
+ferric citrate
+ferric oxide polymaltose complexes
+ferric proteinsuccinylate
+ferrik amonyum sitrat
+ferrik hidroksit sukroz kompleksi
+ferrimanniyol ovalbumin
+ferrofumarate
+ferrous fumarate
+ferrous glycine sulfate
+ferrum reductum
+fesoterodin fumarat
+fexofenadin
+fe²'ye ekivalen ferrum fumarat
+fidaksomisin
+filamentoz haemagglutinin
+filamentoz hemaglutinin
+filamentoz hemaglutinin (fha)
+filgrastim
+fimbriae tip 2
+finasterid
+finerenon
+fizostigmin
+flavoksat
+florodeoksi glukoz
+florodeoksiglukoz
+florometalon asetat
+florometolon
+florotimidin
+florourasil
+fluconazol
+fludarabin fosfat
+fludarabine fosfat
+fludrokortizon
+flufenamik asit
+flufenazin dekanoat
+flukloks asilin
+flukloksasilin
+flukonazol
+flumetazon pivalat
+flunarizin
+fluokortolon kaproat
+fluokortolon pivalat
+fluoksetin
+fluoresein
+fluorometholone and mydriatics
+fluorourasil
+flurbiprofen pellet
+flutamid
+flutikazon
+flutikazon furoat
+flutikazon propiyonat
+fluvoksamin maleat
+folicacid (vitamin b9)
+folik asit
+folik asit (vitamin b9)
+folik asit dekspantenol
+folik asit hidrat
+folik asit.
+follitropin alfa
+follitropin beta
+fondaparinuks
+fondaparinux
+for intravascular adm.
+formeterol fumarat dihidrat
+formetorol fumarat
+formetorol fumarat dihidrat
+formoterol and budesonid
+formoterol fumarad
+formoterol fumarat
+formoterol fumarat dihidrat
+formoterol fumarat dihidrat (mikronize)
+formoterol fumarat dihidrat - budesonid
+formoterol fumarate
+formoterol fumarate dihidrat
+fosaprepitant dimeglumin
+fosfamisin
+fosfomisin
+fosforik asit
+foskarbidopa
+foskarnet sodyum hekzahidrat
+foslevodopa
+fremanezumab
+fructus agni casti kuru ekstresi
+furasemid
+furazolidon
+fusidik asit
+fusidik asit hemihidrat
+g2
+g3
+g4
+gadobenat dimeglumin
+gadobutrol
+gadodiamid
+gadoksetat disodyum
+gadopentat dimeglumin
+gadopentetic acid
+gadoterat meglumin
+gadoterat meglumin (gadoterik asit)
+gadoterik asit (gadoterat meglumin olarak)
+galantamin
+galantamin hidrobromur
+galcanezumab
+galsulfaz
+galyum klorur
+galyum-67 sitrat
+ganirelix
+gansiklovir
+gayafenezin
+gelatin agents
+gemsitabin
+gemtuzumab ozogamisin
+genistein
+gentamicin sulfat
+gentamisin
+gentamisin sulfat
+germanyum klorur
+gestoden
+gestoden 0.075 mg
+gestodene and ethinylestradiol
+gilteritinib fumarat
+gingko biloba
+ginkgo biloba kuru ekstresi
+ginkgo biloba yapraklari kuru ekstresi
+ginkgo folium
+ginkgo glikozidi
+ginko biloba kuru ekstresi
+glatiramer asetat
+glatiremer asetat
+glekaprevir
+glibenclamide
+glibenklamid
+glibornurid
+gliklazid
+glikopironyum bromur
+glikoz
+glimepirid
+glimeprid
+glipizid
+gliseril gayakolat
+gliseril guayakolat
+gliseril trinitrat
+gliseriltrinitrat
+gliserin
+gliserol
+gliserol trinitrat
+glisin
+glisin (amino asetik asit)
+glucagon
+glucose
+glukonat
+glukoz (dekstroz)
+glukoz (susuz)
+glukoz anhidrat
+glukoz anhidroz
+glukoz anhidroz.
+glukoz(17.6 g glikoz monohidrat olarak
+glukozamin sulfat
+glukozamin sulfat kristalin
+glukozamin sulfat kristalize
+glutamik asit
+glutamine
+glutanik asit
+glycerol
+glyceryl guaiacolate
+glyceryl trinitrate
+glycopyrronium bromide
+glycrrhiza glabra
+golimumab
+gonadotropin korionik
+graniton
+grass pollen
+guafenazin
+guaifenasin
+guaifenesin
+guanfasin
+gumus sufadiazin
+gumus sulfadiazin
+gumus sulfadiyazin
+guselkumab
+h2o
+haemophilus influenza tip b polisakkarit (tetanoz proteini ile bir arada)
+haemophilus influenzae tip b polisakkarid (poliribosilribitol fosfat)
+hafif magnezyum oksit
+halometasone
+halometazon
+haloperidol dekanoat
+hamamelis virginiana
+hamamelis virginiana distilat
+hamamelis virginiana distilati
+hcl
+hcl.h2o
+heksetidin
+hekzahidrat
+hemisellulaz
+hemodialytics
+hemodialytics and hemofiltrates
+hemofiltrates
+hemophilus influenzae tip b'nin prp kapsuler polisakkariti
+heparin
+heparinoid (kondroitin polisulfat)
+hepatit 8 yuzey antijeni (hbsag)
+hepatit b immunglobulin
+hepatit b insan immunglobulini
+hepatit b insan immunoglobulini
+hepatit b virus yuzey antijeni
+hepatit b yuzey antijeni
+hepatitis b
+hepatitis b immunoglobulin
+hepati̇t b i̇nsan i̇mmunoglobuli̇ni̇
+hesperidin
+hib
+hidrat
+hidrojen peroksit
+hidrokinon
+hidroklorotiazid
+hidroklorotiyazid
+hidroklorotiyazit
+hidroklorur
+hidrokortizon
+hidrokortizon asetat
+hidrokortizon asetat pramoksin
+hidrokortizon sodyum
+hidrokortizon-17-butirat
+hidrokortizon asetat
+hidroksi etil nisasta
+hidroksietil nisasta
+hidroksietil nisasta 130
+hidroksikarbamid
+hidroksiklorokin sulfat
+hidroksikobalamin
+hidroksikobalamin (vitamin b12)
+hidroksipolietoksidodekan600
+hidroksiprogesteron kaproat
+hidroksiure
+hidroksizin
+hidroksokobalamin
+hidrosmin
+hidrotalsit
+hindistan cevizi yagi
+hipromelloz
+histidin
+hiyasin-n-butilbromur
+hiyosin n butilbromur
+hiyosin n-butil-bromur
+hiyosin n-butilbromur
+hiyosin-n butil bromur
+hiyosin-n-butil bromid
+hiyosin-n-butilbromur
+hi̇droklorti̇tazi̇d
+hi̇droksi̇eti̇l ni̇sasta 130
+human menopausal gonadotrophin
+human papillomavirus (tip 16
+hydrocortisone and antibiotics
+hydrocortisone butyrate
+hydroxyethylstarch
+hylan g-f 20
+hymecromone
+hynic-[d-phe'
+hyosin n butilbromit
+hypertonic
+hypertonic solutions
+ibandronat
+ibandronat sodyum
+ibandronic acid
+ibandronik asit
+ibandronik asit monosodyum tuzu
+ibandronik asit sodyum
+ibandronikasit sodyum
+ibuprofen - psodoefedrin
+ibuprofen - psodoefedrin hidroklorur askorbik asit
+ibuprofen - psodoefedrin hidroklorur klorfeniramin maleat
+ibuprofen lizin
+ibuprofen lizinat
+ichtiyol
+idarubisin
+idarucizumab
+idebenon
+idursulfaz
+ifosfamid
+ihtiyol
+ikatibant asetat
+ikodekstrin
+iksazomib sitrat
+iksekizumab
+ilaprazol
+imatinib mesilat
+imidapril
+imigluseraz
+imikimod
+imipenem and enzyme inhibitor
+imipramin
+immune sera
+immunoglobulins
+inactivated
+inaktif cocuk felci (tip 1
+inaktif cocuk felci virusleri (tip 1
+inaktif cocuk gelci (tip 1
+inaktif hepatit a virusu
+inaktif hepatit a virusu (cr 326f susu)
+inaktive edilmis & saflastirilmis kuduz antijen konsantresi
+inaktive hepatit a (hav) virus antijeni
+inaktive hepatit a virusu
+inaktive hepatit a virusu (gbm susu)
+incl. antihistamines
+incl. combinations with polypeptides
+incl. scabicides
+indacaterol and glycopyrronium bromide
+indakaterol maleat
+indapamid
+indometacin
+indometazin
+infant formulas
+infliksimab
+infliximab
+influenza
+influenza virusu (inaktif
+influenza virusu yuzey antijeni (inaktif
+inklisiran
+inosin pranobeks
+inositol
+inotuzumab ozogamisin
+insan
+insan albumini
+insan alfa 1-proteinaz inhibitoru
+insan fibrinojeni
+insan hepatit b immunoglobulini
+insan immunglobulini
+insan immunoglubulini
+insan insulini
+insan koagulasyon faktoru ix
+insan koagulasyon faktoru viii
+insan normal immunglobluni
+insan normal immunglobulini g
+insan normal immunoglobulini
+insan plazma koagulasyon faktoru viii
+insan plazma pihtilasma faktor viii
+insan protein c
+insan protrombin kompleksi (insan plazma koagulasyon faktorleri ii
+insan rotavirus r1x4414 canli atenue susu
+insan sitomegalovirus immunoglobulini
+insan tetanoz immunoglobulini
+insan trombini
+insulin (human)
+insulin aspart
+insulin degludek
+insulin detemir
+insulin glarjin
+insulin glulisin
+insulin lispro
+interferon beta-1a
+interferon beta-la
+iobitridol
+ioheksol
+iomeprol
+iopromid
+ipilimumab
+ipratropium bromid
+ipratropium bromur
+ipratroplum bromur
+irbesartan and diuretics
+irinotecan hidroklorur trihidrat
+irinotekan hidroklorur trihidrat
+iron and multivitamins
+iron in combination with folic acid
+iron trivalent
+isatuximab
+isosorbid mononitrat
+isosorbide-5-mononitrate
+isosorbit mononitrat
+isosorbitdinitrat
+ispaghula husk
+itoprid
+itrakonazol
+ivabradin
+ivabradin oksalat
+ivr-190) benzeri sus-a
+ix
+iyodoklorhidroksiquin
+iyodoklorhikroksikin
+iyoheksol
+iyot %10
+izofan nph biyosentetik insan insulini
+izokonazol
+izokonazol nitrat
+izokonazol nitrat diflukortolon valerat
+izolosin
+izonikotinik asit hidrazid
+izoniyazid
+izoprenalin
+izoproternol
+izosorbit dinitrat
+izosorbit-5 mononitrat
+i̇bandronik asit monosodyum tuzu
+i̇brutinib
+i̇buprofen sodyum dihidrat
+i̇butilid fumarat
+i̇htiyol
+i̇katibant asetat
+i̇kati̇bant asetat
+i̇kosapent etil
+i̇loprost
+i̇matinib mesilat
+i̇mikimod
+i̇mipenem
+i̇naktif polio virus tip 1 (mahoney susu)
+i̇naktif polio virus tip 2 (mef-1 susu)
+i̇naktif polio virus tip 3 (saukett susu)
+i̇naktif sars-cov-2 virus (hcov-19
+i̇naktive hepatit a virus antijeni
+i̇ndakaterol maleat
+i̇ndapamid
+i̇nfliximab
+i̇nosin pranobeks
+i̇nsan albumini
+i̇nsan alfa-1 proteinaz inhibitoru
+i̇nsan fibrinojeni
+i̇nsan hepatit b immunoglobulin
+i̇nsan hepatit b immunoglobulini
+i̇nsan hepatit b i̇mmunoglobulini
+i̇nsan koagulasyon faktoru ix
+i̇nsan koagulasyon faktoru x
+i̇nsan normal immunglobulin g
+i̇nsan normal immunglobulini
+i̇nsan normal immunoglobulin
+i̇nsan normal immunoglobulini
+i̇nsan plazmasindan turetilmis koagulasyon faktoru viii
+i̇nsan protrombin kompleksi (i̇nsan pihtilasma faktorleri ii
+i̇nsan protrombin kompleksi (i̇nsan plazma koagulasyon faktorleri ii
+i̇nsulin glarjin
+i̇pratropium bromur
+i̇pratropiyum bromur
+i̇sofluran
+i̇vabradin
+i̇vermektin
+i̇yoheksol
+i̇zokonazol nitrat
+i̇zolosin
+i̇zotretinoin
+k1orfeniramin maleat
+kabakulak
+kabazitaksel
+kabazitaxel
+kabergolin
+kabotegravir
+kabozantinib(s)-malat
+kafein
+kafein sitrat
+kafur
+kafur % 5
+kalaminlidokain
+kalfaktan (clse)
+kalsiferol
+kalsipotriol
+kalsipotriyol
+kalsitriol
+kalsiyuim karbonat
+kalsiyum asetat
+kalsiyum d-pantotenat
+kalsiyum d3 vitamini
+kalsiyum diasetat
+kalsiyum dobesilat
+kalsiyum folinat
+kalsiyum folinat pentahidrat
+kalsiyum folinat pentohidrat
+kalsiyum fosfat tribazik
+kalsiyum glokokol kompleksi
+kalsiyum glukonat
+kalsiyum glukonat monohidrat-kalsiyum levulinat dihidrat
+kalsiyum karbonat
+kalsiyum klorur
+kalsiyum klorur 2h2o
+kalsiyum klorur dihidrat
+kalsiyum klorur.2h2o
+kalsiyum klorurdihidrat
+kalsiyum laktat
+kalsiyum levulinat dihidrat
+kalsiyum magnezyum fitat
+kalsiyum monoetil fumarat
+kalsiyum pantetonat
+kalsiyum polistiren sulfonat
+kalsi̇yum klorur di̇hi̇drat
+kalvulanik asit
+kamomil tenturu
+kanamisin
+kandesartan
+kandesartan sileksatil
+kandesartan sileksetil
+kandesartan sileksetilamlodipin besilathidroklorotiyazid
+kangrelor tetrasodyum
+kansas
+kapesitabin
+kapsaisin
+kaptopril
+karbakol
+karbamazepin
+karbetapentan
+karbetosin
+karbidopa
+karbomer
+karboplatin
+karbosistein
+karfilzomib
+karglumik asit
+kariprazin
+karisoprodol
+karmustin
+karteolol
+karvedillol
+karvedilol
+kaspofungin
+kaspofungin asetat
+kekik esansi
+kenodeoksikolik asit
+ketamin
+ketiapin
+ketiapin fumarat
+ketiapin hemifumarat
+ketoasit kombinasyonu
+ketokanazol
+ketokonazol
+ketoprofen lizinat
+ketoprofen mikropelle
+ketorolac tromethamine
+ketorolak
+ketorolak trometamin
+ketotifen fumarat
+ketotifen hidrojen fumarat
+kinidin feniletil barbiturat
+kinidin sulfat
+kizamik
+kizamik virusu enders edmonston susu (canli
+kizamikcik virusleri
+kladribin
+klaritromisilin
+klaritromisin
+klaritromisin laktobiyonat
+klasiyum folinat pentahidrat
+klavulanat avicel
+klavulanik asit-syloid
+klavulanmik asit-syloid
+klavulonik asit
+klavulonikasit
+klemastin hidrojen fumarat
+klidinyum bromur
+klindamisin
+klindamisin fosfat
+klindamisin fosfat %1
+klindamisin palmitat
+kliokinol
+klobetazol 17- propiyonat
+klobetazol 17-propionat
+klobetazol 17-propiyonat
+klobetazol propionat
+klobetazol propiyonat
+klobutanol
+klofarabin
+klomifen sitrat
+klomipramin
+klonazepam
+klopidogrel
+klopidogrel besilat
+klopidogrel bisulfat
+klopidogrel hidrojen sulfat
+kloramfenikol
+kloramfenikol l
+klorazepat dipotasyum
+klordiazepoksit
+kloreniramin maleat
+klorfenamin maleat
+klorfeniramin
+klorfeniramin maleat
+klorfeniramin maleate
+klorfeniraminmaleat
+klorfenoksamin
+klorheksidin
+klorheksidin diglukonat
+klorheksidin dihidroklorur
+klorheksidin glukona
+klorheksidin glukonat
+klorheksizidin
+klorheksi̇di̇n glukonat
+klorhekzidin
+klorhekzidin glukonat
+klorkinaldol
+klorokin fosfat
+klorpromazin
+klorpropamid
+klortalidon
+klorzoksazon
+klotrimazol
+klozapin
+kluvanik asit
+koagulasyon faktoru xiii
+kobimetinib hemifumarat
+kobisistat
+kodein
+kodein fasfat
+kodein fosfat
+kokarboksilaz tetrahidrat
+kolekalsiferol
+kolekalsiferol (vit d3)
+kolekalsiferol (vitamin d3)
+koleklasiferol
+kolesevelam
+kolesevelan
+kolestiramin
+kolin alfaskerat hidrat
+kolin salisilat
+kolistimetat
+kolistimetat sodyum 4.500.000 iu
+kolsisin
+kombi set i: fibrinojen
+kompleks olusturucu proteinler icermeyen clostridium botulinum (hall susu) kulturlerinden saflastirilmis botulinum toksin tip a
+kondoitin sulfat
+kondroitin sulfat
+konestat alfa
+konjuge haemophilus influenza tip b polisakkarid (prp) (poliribosilribitol fosfat)
+konsantre insan plazma fibrinojeni
+korifollitropin alfa
+koriogonadotropin alfa
+kospofunginasetat
+krezoksidiol
+krizotinib
+krom klorur hekzahidrat
+kromolin
+krotamiton
+ksilometazolin
+kuadrivalan human papillomavirus (tip 6
+kukurt
+kulturu
+kurutulmus duvar sarmasigi (hedera helix l.) yaprak ekstresi
+l-
+l- glutamik asit
+l- metiyonin
+l- treonin
+l- trozin
+l-alanil-l-glutamin
+l-alanin
+l-arginiin l-prolin
+l-arginin
+l-arjinin
+l-aspartat
+l-aspartik asit
+l-aspatik asit
+l-fenilalanin
+l-fenilanilin
+l-glutamik asit
+l-histidin
+l-isolosin
+l-izolosin
+l-izolusin
+l-i̇zolosin
+l-karnitin
+l-lizin
+l-lizin asetat
+l-lizin monohidroklorur
+l-losin
+l-malik asit
+l-metionin
+l-metiyonin
+l-monotrosanat
+l-ornitin
+l-ornitin l-aspartat
+l-ornitin-l-aspartat
+l-prolin
+l-serin
+l-serin glisin (amino asetik asit) l-sistein
+l-sistein
+l-sistein hidroklorur dihidrat
+l-sistein. hcl. h2o
+l-tirozin
+l-tirozin ( l-tirozin
+l-treonin
+l-treozin
+l-trionin
+l-triptofan
+l-trofselamin valin
+l-valin
+lactic acid producing organisms
+lactobacillus acidophilus
+lactobailus asidofilus
+lakozamid
+laktik asit
+laktuloz
+lamivudin
+lamotrijin
+lanadelumab
+lanatocide c
+lanreotid asetat
+lansoprazol pellet
+lantanyum karbonat oktahidrat
+lapatinib ditosilat
+laronidaz
+larotrektinib sulfat
+lasmiditan hemisuksinat
+latanoprosten bunod
+lauromacrogol 400
+lauromakrogol 400
+leflunamid
+leflunomid
+leirus quinquestriatus
+lenakapavir
+lenalidomid
+lenvatinib mesilat
+lerkanidipin
+letrozol
+leuprorelin
+leuprorelin asetat
+levadropropizin
+levalbuterol
+levalbuterol sulfat
+levamizol
+levamizolhidroklorur
+levamlodipin besilat (s-amlodipin besilat) valsartan
+levatirasetam
+levetirasetam
+levocarnitine
+levoddropropizin
+levodropropizin
+levodropropizine
+levofloksasin hemhidrat
+levofloksasin hemihidrat
+levofloksasin hermihidrat
+levokarnitin
+levokloperastin fendizoat
+levomefolat kalsiyum
+levonorgestrel and ethinylestradiol
+levosalbutamol sulfat
+levosetirizin
+levosetirizin dihidroklorur
+levosetirizin dihidroklorur montelukast
+levosetrizin dihidroklorur
+levothyroxine sodium
+levotiroksin
+lidakain
+lidockaine
+lidoflazin
+lidokain
+lidokain baz
+lidokain hci
+lidokain hidroklorur
+lidokain prilokain
+lidoksin
+liizin
+liksisenatid
+linaglipin metformin hidroklorur
+linagliptin [vandf]
+lincomisin
+linestrenol
+linkomisin
+linkomisin baz
+liothyronine sodium
+lipegfilgrastim
+lipid thromboplastin
+lipozomal amfoterisin b
+liraglutid
+liraglutide
+lisinopril and diuretics
+lisinopril dihidrat
+lithium
+lityum karbonat
+live attenuated
+liyofilize laktobasillus reuteri
+lizin
+lizin (l-lizin asetat 0
+lizin (l-lizin asetat olarak)
+lizin (l-lizin asetat)
+lizin asetat
+lizinasetat
+lizozim
+li̇dokai̇n
+lla
+lmethiyonin
+lmetiyonin
+lodoksamid trometamin
+loksapin baz
+lonoktokog alfa (rekombinant
+lopamidol
+loperamid
+lopinavir and ritonavir
+loratadin
+lorlatinib
+lornoksikam
+losartan and diuretics
+losin
+loteprednol etabonat
+loteprednol etabonate
+loxoprofen sodium
+ltriptofan
+lulikonazol
+lurasidon
+luspatersept
+lutesyum (177lu) klorur
+lutropin alfa
+lvalin
+macrogol 3350
+macrovipera lebetina
+macrovipera lebetina yilan venomunakarsi i̇mmunoglobuli̇n f(ab')2 fragmanlari(at kokenli̇)
+magaldrat
+magaldrate and antiflatulents
+magnesium
+magnesium oksit
+magnesyum hidroksit
+magnezkum klorur hekzahidrat
+magnezyum aljinat
+magnezyum asetat tetrahidrat
+magnezyum asetattetrahidrat
+magnezyum aspartat dihidrat
+magnezyum hidroksit
+magnezyum karbonat
+magnezyum klorur
+magnezyum klorur 6h20
+magnezyum klorur 6h2o
+magnezyum klorur hegzahidrat
+magnezyum klorur heksahidrat
+magnezyum klorur hekzahidrat
+magnezyum klorur hekzahi̇drat
+magnezyum klorur.6h2o
+magnezyum monoetil fumarat
+magnezyum oksikt
+magnezyum oksit
+magnezyum sitrat
+magnezyum sulfat
+magnezyum sulfat 7h2o
+magnezyum sulfat heptahidrat
+magnzeyum oksit
+makrogol 3350
+makrogol 4000
+manezyum hidroksit
+mangafodipir
+mangan sulfat
+manganese (ii) carbonate
+manganez
+maprotilin
+maravirok
+maribavir
+marstacimab
+maryland
+masitentan
+massachusetts
+mavakamten
+measles
+mebeverin
+mebeverin hidroklorur mikropellet
+medazepam
+medicinal charcoal
+medroksi progesteron asetat
+medroksiprogesteron asetat
+medroxyprogesterone
+mefenamik asit
+mefenoksalon
+megestrol
+megestrol asetat
+meglumin amidotrizoat
+meglumin iyoksitalmat
+meklizin dihidroklorur
+mekobalamin
+melfalan
+meloksikam
+memantin
+memantin hci
+menadion (vitamin k3)
+menadion sodyum bisulfit
+meningococcus a
+meningokok a polisakkariti
+meningokok c polisakkariti
+meningokok w135 polisakkariti
+meningokok y polisakkariti
+meningokokal a
+menotropin hp
+mentol
+mentol %3
+mepiramin maleat
+mepivakain
+mepolizumab
+merck susu (canli
+merkaptopurin
+merkurokrom (merbramin)
+meropenem trihidrat
+mertiatide
+mesalazin
+mesna
+mesterolon
+metamizol
+metamizole sodium
+metandrostenolon
+metaprolol
+metenamin
+metenamin & metenamin anhidrometilensitrat
+metenamin anhidrometilen sitrat
+metenamin hippurat
+metenamin mandelat
+metenolon enantat
+metformin and pioglitazone
+metformin hci
+metformin pioglitazon
+methiyonin
+methoxalen
+methyldopa (levorotatory)
+methylrosaniline
+metil prednisolon sodyum
+metil salisilat
+metil salisilat % 2
+metilen mavisi
+metilendifosfonik asit
+metilergonovin maleat
+metilfenidat
+metilmelubrin
+metilprednisolon aseponat
+metilprednisolon sodyum
+metilprednizolon
+metilprednizolon aseponat
+metilprednizolon asetat
+metilsalisilat
+metiltestosteron
+metimazol
+metimazol (tiamazol)
+metimazol (tiyamazol)
+metiyonin
+metokarbamol
+metoklopramid
+metoksi polietilen glikol
+metoprolol tartarat
+metotreksat
+metotreksat anhidroz
+metotreksat disodyum
+metotresat
+metotrexat
+metronidazol
+metronidazol benzoat
+metronidazol mikonazol nitrat lidokain
+mibi-cu kompleksi
+mide mukoza tozu
+mifamurtid
+migalastat
+mikafungin
+mikofenolat
+mikofenolat mafetil
+mikofenolat mofetil
+mikofenolik
+mikonazol
+mikonazol nitrat
+mikroagrege insan albumini
+mikronize fenofibrat
+mikronize progesteron
+milk substitutes
+milrinon
+mineral
+mineral kombinasyonu
+minerals
+minoksidil
+mirikizumab
+mirtazapin
+mitoksantron
+mitomisin
+mizolastin
+ml
+moclobemid
+moeksipril hidroklorur vehidroklorotiyazid
+moksifloksasin
+moksifloksasin hci
+moksifloksasin hidroklorur
+mometason furoat
+mometasone furoat
+mometaszon fumarat
+mometazon furoat
+monobazik potasyum fosfat
+monobazik potasyum fosfat.7h2o
+monobazik sodyum fosfat
+monobazik sodyum fosfat anhidroz
+monobazik sodyum fosfat di-hidrat
+monobenzon
+monokomponent biyosentetik insan insulini
+montivipera xanthina yilan venomlarina karsin immunglobulin f(ab')2 fragmentleri (at kokenli)
+montivipera xanthina yilanvenomuna karsi i̇mmunoglobuli̇n f(ab')2fragmanlari (at kokenli̇)
+morfin sulfat
+morfozinamid
+moroktokog alfa (af-cc) (rekombinant insan koagulasyon faktoru viii)
+moroktokog alfa af-cc
+mukolisakkarid polisulfat
+mukopolisakkarit polisulfat (kondroitin polisulfat)
+mukoproteaz
+multienzymes (lipase
+multivitamin
+multivitamin kompleksi
+multivitaminler
+multivitamins
+multivitamins and trace elements
+mupirosin
+mupirosin kalsiyum
+mupirosin kasiyum dihidrat
+mycobacterium bovis bcg
+mycobacterium bovis bcg (bacillus calmette-guerin)
+n(2-chlorine-4 nitro genyl) 5 chlorine salicylamide
+n-asetil-l-tirozin olarak)]
+n-difenil metil atropin bromur
+nabumeton
+nadifloksasin
+nadifloxacin
+nafarelin asetat
+naftazon
+naftifin
+nalidiksik asit
+nalmefen hidroklorur dihidrat
+nalokson
+naltrekson
+nandrolondekanoat
+nane esansi
+nano boyutlu insan serum albumin kolloidi
+naproksen (2-naftalen asetik asit)
+natalizumab
+nateglinid
+nebivolol hci
+neisseria meningitidis serogrup b rekombinant lp2086 (mnb rlp2086) alt familya a proteini
+neisseria meningitidis serogrup b rekombinant lp2086 (mnb rlp2086) alt familya b proteini
+nelarabin
+neomisin sulfat
+neostigmin metil sulfat
+neostigmin metilsulfat
+nepafenak
+neratinib maleat
+netilmisin
+netilmisin sulfat
+niacinamide (vitamin b3)
+niasin
+niasinamid
+nicopyron
+nicotinamide (vitamin b3)
+nicotinic acid
+nifedipin
+nifuratel
+nifuroksazid
+nifuroxazide
+nikardipin
+niklosamid
+niklozamid
+nikorandil
+nikotin
+nikotin rezinat
+nikotinamid
+nikotinamid)
+nimesulid
+nimodipin
+nintedanib esilat
+niraparib tosilat
+nirsevimab
+nistadin
+nistatin
+nitisinon
+nitrofurazon
+nitrogliserin
+nivolumab
+non-steroids for topical use
+nonakog alfa
+nonakog beta pegol
+nonakog gamma (rekombinant koagulasyon faktoru ix)
+nonoksinol
+nopoksamin
+noradrenalin
+noradrenalin bitartarat
+noradrenalin tartarat
+norepinefrin bitartarat
+norepinefrin tartarat
+noretisteron
+noretisteron asetat
+noretisteron enantat
+normal human
+normal insan immunglobulini
+normal insan immunglobulini g
+normal insan immunoglobulini
+noskapin
+novaljin
+nusinersen
+nutrients without phenylalanine
+nymc bx-69a) benzeri sus- b
+nymc x- 179a) benzeri sus 2)a
+nymc x-327) benzeri sus- b
+nymc x223a) benzeri sus 3)b
+obinutuzumab
+ocrelizumab
+ofatumumab
+ofloksasin
+okaliptol
+okaliptol % 3
+okaliptus yagi
+oksalamin
+oksalamin fosfat
+oksalamin sitrat
+oksaliplatin
+okserutin
+oksibutinin
+oksibutinin klorur
+oksifensiklimin
+oksikodon
+oksikodon hci
+oksikonazol
+oksikonazol nitrat
+oksimetazolin
+oksimetolon
+oksitetrasiklin
+oksitosin
+okskarbazepin
+oksolamin fosfat
+oksolamin sitrat
+oksolinik asit
+oktakog alfa (rekombinant insan koagulasyon faktor viii)
+oktenidin dihidroklorur
+oktenidin dihidroklorur fenoksietanol
+oktokog alfa (rekombinant insan koagulasyon faktoru viii)
+oktreotid asetat
+okzaliplatin
+olanzapin
+olanzapin dihidroklorur trihidrat
+olapatadin
+olapatidin
+olipudaz alfa
+olmesartan medoksamil
+olmesartan medoksomil
+olmesartan medoksomil and amlodipine
+olmesartan medoksomil and diuretics
+olmesartan medoxomil
+olmesartan medoxomil and amlodipine
+olmesartan nedoksomil
+olopatadin
+omalizumab
+omega-3-triglycerides incl. other esters and acids
+onabotulinumtoksin a
+onabotulinumtoksina
+ondansetron hidroklorur dihidrat
+ondansetron hidroklorurdihidrat
+ondansetron hi̇droklorur di̇hi̇drat
+opipramol
+opipramol dihidroklorur
+or other drugs
+or vitamin b12
+oral preparations
+oral rehydration salt formulations
+organo-heparinoid
+ornidazol
+ornidazol-siprofloksasin
+ornidazole
+ornitin
+oseltamivir fosfat
+osimertinib mesilat
+ostradiol
+ostradiol hemihidrat
+ostradiol valerat
+other agents for local oral treatment
+other antiemetics
+other antipruritics
+other antiseptics and disinfectants
+other cold preparations
+other combinations
+other combinations of nutrients
+other dermatologicals
+other diagnostic agents
+other ectoparasiticides
+other mineral supplements
+other non-therapeutic auxiliary products
+other nutrients
+other preparations
+other respiratory system products
+other urologicals
+otilonium bromide
+otilonyum bromur
+oxolamine
+oxytocin
+ozanimod
+p1(8)]
+paklitaksel
+paklitaksel (albumin bagli)
+palbosiklib
+paliperidon
+paliperidon palmitat
+palivizumab
+palonosetron hydrochloride
+pamabrom
+pamidronat disodyum
+pamidronic acid
+panitumumab
+pankeratin
+pankreas enzim konsantresi
+pankreatin
+pankreatin dimetikon
+pankreatin enzim konsantresi
+pankreatin silikon kuru toz
+pankreatin spesial
+panroprazol sodyum seskihidrat
+pantaprazol
+pantokain
+pantoprazol sodyum seksihidrat
+pantoprazol sodyum seskihidrat
+pantoprazole sodyum seskihidrat
+pantoprolin
+pantotenik asit
+pantotenik asit (dekspantenol)
+papaverin
+para-aminosalisilik asit sodyum tuzu
+paracetamol
+parasetamol fenilefrin hidroklorur difenhidramin
+parasetamol klorfeniramin maleat fenilefrin
+parasetemol
+parasetomol
+parenteral preparations
+parikalsitol
+paroksetin
+paroksetin hidroklorur hemihidrat
+paroksetin mesilat
+pasireotid asetat
+patiromer sorbiteks kalsiyum
+pegfilgrastim
+peginterferon alfa-2a
+peginterferon beta-1a
+pegvisomant
+pembrolizumab
+pemetrekset disodyum
+pemetrekset disodyum hemiheptahidrat
+pemetrekset disodyum hemipentahidrat
+pemetrekset disodyum heptahidrat
+penciclovir
+penisilin g
+penisilin g benzatin
+penisilin g potasyum kristalize
+penisilin g prokain
+pensiklovir
+pentason polisulfat
+pentavalan rotaviriis serotipleri[gl
+pentetik asit
+pentoksifilin
+pentosan polisulfat
+peramivir trihidrat
+perasetamol
+perindopril and amlodipine
+perindopril and diuretics
+perindopril arjinin
+perindopril erbumin
+perindopril tert-butilamin
+perindopril tertbutilamin
+peritoneal dialytics
+permetrin
+pertaktin
+pertaktin (prn))
+pertaktin inaktif poliovirus
+pertuzumab
+peru balsam
+petidin
+phenolphthalein
+phenorbarbital
+phenprobamate
+phuket
+phytomenadione
+pilokarpin
+pilokarpin nitrat
+pimavanserin tartarat
+pimozid
+pinaveryum bromur
+pioglitazon
+pioglitazon hci
+piperacillin and enzyme inhibitor
+piperacillin na
+piperasilin
+piperazin
+piperazin heksahidrat
+piperazin hekzahidrat
+piperonil butoksid
+pirantel pamoat
+pirasetam
+pirazinamid
+piretrin
+pirfenidon
+piribedil
+piridoksin
+piridoksin hcl(vitamin b6)
+piridoksin hidroklorur (b6 vitamini)
+piridoksin hidroklorur (vitamin b6)
+piridostigmin bromur
+piridyum
+pirilamin maleat
+pirimidon
+piroksikam
+piroksikom siklodekstrin
+pirvinyum
+pitavastatin kalsiyum
+pitman moore susu kuduz virus antijeni
+pivmesilinam
+plain
+plantago ovata tohumlari
+pleriksafor
+pnomokokal polisakkarit serotipleri
+polidocanol
+polidokanol
+polietilen glikol
+polietilen glikol (makrogol) 3350
+polietilen glikol 3350
+polietilen glikol 400
+polimiksin b sulfat
+poliovirus (inaktif): tip 1 (mahoney)
+polisakkarid serotip
+polistiren sulfonat kalsiyum
+polistiren sulfonat kalsiyum tuzu
+polivinil alkol
+polivinilalkol
+polivinilpirolidon
+polivinilpirolidon iyot
+poli̇sorbat 80
+pomalidomid
+pora p1.4 iceren toplam protein miktari olarak olculen neisseria meningitidis grup b susu nz98
+posakonazol
+potassium hloride
+potassiumiodide
+potasyujm klavulanat
+potasyum asetat
+potasyum benzilpenisilin
+potasyum bi karbonat
+potasyum bikarbonat
+potasyum bikarbonat =40 mlval potasyuma esdeger
+potasyum chloride
+potasyum dihidrajen fosfat
+potasyum fosfat dibazik
+potasyum hidrojen karbonat
+potasyum iyodur
+potasyum klavulanat
+potasyum klavulanat sylloid karisimi
+potasyum klavulanat syloid
+potasyum klavulanat syloid karisimi
+potasyum klorur
+potasyum klorur sodyum klorur
+potasyum korur
+potasyum penisilin g
+potasyum penislin
+potasyum sitrat
+potasyum sitrat 1 h₂o
+potasyum sulfogayakolat
+povidon
+povidon iyodin
+povidon iyot
+povidone-iodine
+pralidoksim
+pramipeksol
+pramipeksol dihidroklorur
+pramoksin
+pranlukast hemihidrat
+predni karbat
+prednikarbat
+prednisolon
+prednisolon %0
+prednisolon asetat
+prednizolon
+prednizolon metasulfobenzoat
+prednizon
+pregabalin vitamin b12 (mekobalamin)
+preparations with salicylic acid derivatives
+pridoksin
+prilokain
+primidon
+progesteron
+prokain
+prokain benzil penisilin
+prokain penisilin
+prokain penisilin g
+prolin
+propafenon
+propantelin bromur
+proparakain
+propifenazon
+propilen glikol
+propiverin
+propiyonat dihidrat
+protamin
+protamin sulfat
+protease etc.)
+protein s)
+protein-c
+protein-s
+proteins
+protirelin
+protokilol
+prpparakain
+pseudoefedrin
+psodoefedrin
+psodoefedrin hci
+psodoefedrin hidroklorurt
+purified antigen
+purifiye difteri toksoidi
+purifiye tetanoz toksoidi
+pyridinoline carbamate
+pyridoxine (vit b6)
+pyridoxine hydrochloride (vitamin b6)
+pyridoxinehydrochloride (vitamin b6)
+pyrithione zinc
+quaternary ammonium compounds
+rabeprazol
+rabeprazol sodyum hidrat
+radyum-223 diklorur
+rafine edilmis balik yagi (epa
+rafine soya fasulyesi yagi
+rafine soya yagi
+rafine soyayagi
+rafine z.yagi
+rafine zeytin yagi
+rafine zeytinyagi
+rafine zeytinyagi - rafine soya yagi karisimi (oran %80-%20)
+rafinezeytinyagi
+ramipril and diuretics
+ramipril and hidroklorotiyazid
+ramusirumab
+ranibizumab
+ranitidin
+ranolazin
+rasagilin mesilat
+rasagiline mesilat
+rasajilin
+rasajilin mesilat
+rasburikaz
+rasekadotril
+rasemik magnezyumaspartat tetrahidrat
+rasemik potasyum aspartathemihidrat
+ravulizumab
+reboksetinmetan sulfonat
+rekombinant insan epidermal buyume faktoru
+rekombinant neisseria meningitidis grup b fhbp fuzyon proteini
+rekombinant neisseria meningitidis grup b nada proteini
+rekombinant neisseria meningitidis grup b nhba fuzyon proteini
+rekombinant rsv glikoprotein f antijeni (rsvpref3)
+remdesivir
+repaglinid
+reteplase
+retinoik asit
+retinoik asit(tretinoin)
+retinol
+rezerpin
+rezorsin
+rezorsinol
+rhodapap dc
+rhubarb koku ekstresi
+riboflavin (vitamin b2)
+riboflavin (vitaminb2)
+riboflavin fosfat
+riboflavin sodyum fosfat (vitamin b2)
+riboflavin sodyum fosfat dihidrat
+riboflavin-5-sodyum fosfat
+ribosiklib
+rifaksimin
+rifamisin
+rifamisin sv
+rifamisin sv aktif
+rifamisin sv sodyum tuzu
+rifampin
+rifampisin
+rilpivirin
+riluzol
+rimegepant sulfat
+riosiguat
+risankizumab
+risdiplam
+risedronat
+risedronat sodyum hemipentahidrat
+risedronik asit
+risperidon
+ritlesitinib tosilat
+rituksimab
+rituximab
+rivaroksaban
+rivastigmin
+rivastigmin hidrojen tartarat
+rivoraksaban
+rix-fp)
+rizatriptan benzoat
+roche
+rocuronium bromide
+rofekoksib
+roksadustat
+roksitromisin
+rokuronyum bromur
+romiplostim
+romosozumab
+ropinirol
+rosuvastatin and acetylsalicylic acid
+rosuvastatin and amlodipine
+rosuvastatin kalsiyum
+rosuvastatinkalsiyum
+rozanolixizumab
+rsv altgrup a
+rubarb (isgin) ekstresi
+rubella
+ruksolitinib fosfat
+rupatadin fumarat
+rurioktokog alfa pegol (peglenmis rekombinant insan koagulasyon faktor viii)
+ruskogenin
+s-amlodipin besilat
+s-etodolak
+s-metoprolol
+sabal
+saccharomyces boulardii
+sacituzumab govitekan
+saf soya yagi
+saf zeytinyagi
+safinamid metansulfonat
+saflastirilmis hepatit b yuzey antijeni
+safra ekstresi
+safta ekstresi
+saksagliptin
+sakubitril
+salbatamol sulfat
+salbutamol and ipratropium bromide
+salbutamol sulfat
+salisalik asit
+salisilazosulfapiridin
+salisilik asit
+salisilik asit neohidroksi
+salmaterol
+salmeterol and fluticasone
+salmeterol and other drugs for obstructive airway diseases
+salmeterol ksinafoat
+salmeterol ksinafoat and flutikazon propiyonat
+salmeterol ksinofoat
+salmonella typhi'nin polisakkaritleri
+sapropterin dihidrokloru
+sapropterin dihidroklorur
+satralizumab
+saw palmetto ekstresi
+sebelipaz alfa
+secukinumab
+sedir agaci yapragi yagi
+sefadroksil
+sefaklor
+sefaleksin
+sefasetril
+sefazolin
+sefdinir
+sefditoren pivoksil
+sefepim
+sefepim hci
+sefepime
+sefiksim
+sefiksim trihidrat
+sefodoksim prosetil
+sefoperazon
+sefotaksim
+sefozolin
+sefpodoksim
+sefpodoksim proksetil
+sefprozil
+seftazidim pentahidrat
+seftibuten dihidrat
+seftizoksim
+seftolozan sukfat
+seftriaksaon
+seftriakson
+seftriakson disodyum
+seftriakson disodyum hemiheptahidrat
+seftriakson disodyum triseskuihidrat
+sefuroksim
+sefuroksim aksetil
+sefuroksim sokdyum
+sefuroksim soyum
+sefuroksin aksetil
+seknidazol
+selegilin
+selekoksib
+seleksipag
+selenyum sulfid
+selineksor
+selumetinib hidrojen sulfat
+semaglutid
+senna ekstresi
+senna glycosides
+senne (sinameki) ekstresi
+sennosid
+sennosid a
+sennoside
+sennozit a
+sennozit b
+sequential
+serin
+seritinib
+sertakonazol nitrat
+sertralin
+set 1: insan fibrinojeni
+set 2: trombin
+setilpiridinyum klorur
+setilpridinyum klorur
+setirizin
+setirizin dihidroklorur
+setirizinm dihidroklorur
+setrimid
+setrimid (setil trimetilamonyum bromid)
+setrizin
+setroreliks asetat
+sevelamer karbonat
+sevofluran
+sidofovir dihidrat
+sigir akciger surfaktani
+sigir safrasi ekstresi
+siklesonid
+siklobenzaprin
+siklofosfamid
+siklopentolat
+siklopiroks
+siklopiroks olamin
+siklopiroksolamin
+sikloserin
+siklosporin
+siklosporin a
+silastatin
+silazapril
+sildenafil sitrat
+silikon dioksit (1:1)
+silostazol
+siltuksimab
+simetidin
+simetikon
+sinakalset
+sinkokain
+sinnarizin
+siponimod fumarik asit
+siprofloksasin baz
+siprofloksasin hci
+siprofloksasin hcl
+siprofloksasin hidraklorur
+siprofloksasin hidroklorur
+siprofloksasin laktat
+siprofloxasin
+siproheptadin
+siproteron asetat
+sisaprid
+sisplatin
+sisteamin
+sistein
+sistein (l-sistein hcl.h2o olarak)
+sitagligtin fosfat
+sitagliptin fosfat
+sitagliptin fosfat anhidrus
+sitagliptin fosfat monohidrat metformin
+sitagliptin hidroklorur
+sitagliptin malat
+sitalopram
+sitalopram hbr
+sitalopram hidrobromur
+sitarabin
+sitikolin
+sitizin
+sitrik asit
+siyanokobalamin
+siyanokobalamin (b 12 vitamini
+siyanokobalamin (vitamin b12)
+siyanokobalamin (vitb12)
+skopolamin n-butil bromur
+skopolamin n-butil-bromur
+smx
+snake venom antiserum
+sodium aminosalicylate
+sodium fluoride
+sodium hyaluronate [ep]
+sodium molybdate
+sodium picosulfate
+sodium sitrat
+sodum bisulfit
+sodyum (s)-laktat
+sodyum (s)-laktat cozeltisi
+sodyum alginat
+sodyum aljinat
+sodyum aljinatpotasyum bikarbonat
+sodyum amidotrizoat
+sodyum asetat
+sodyum asetat 3h20
+sodyum asetat 3h2o
+sodyum asetat trihidrat
+sodyum asetat tri̇hi̇drat
+sodyum asetat.3h2o
+sodyum benzil penisilin
+sodyum benzoat
+sodyum bikarbonat
+sodyum cmc
+sodyum dihidrojen fosfat
+sodyum dihidrojen fosfat dihidrat
+sodyum dihidrojenfosfat
+sodyum fenilbutirat
+sodyum florur
+sodyum florur (18f)
+sodyum flurbiprofen dihidrat
+sodyum fucidat
+sodyum fusidat
+sodyum gliserofosfat
+sodyum gliserofosfat 5h20
+sodyum gliserofosfat hidrat
+sodyum gliserofosfat pentahidrat
+sodyum gliserofosfat.hidrat
+sodyum gliserofosfathidrat
+sodyum glukonat
+sodyum hidrojen karbonat
+sodyum hiyaluronat
+sodyum iyodur
+sodyum iyodur (131i)
+sodyum iyodur (i-131)
+sodyum iyodur-131 (i-131)
+sodyum karboksimetilseluloz
+sodyum klorurkalsiyum klorur 2.h2omagnezyum klorur 6.h2opotasyum klorur
+sodyum kromoglikat
+sodyum laktat
+sodyum metabisulfit
+sodyum molibdat
+sodyum molibdat (mo-99)
+sodyum nitroprusid
+sodyum oksibat
+sodyum oksidronat
+sodyum perteknetat
+sodyum perteknetat (tc-99m)
+sodyum pertetnetat
+sodyum pikosulfat
+sodyum pirofosfat dekahidrat
+sodyum sakarin
+sodyum siklamat
+sodyum sitrat
+sodyum sitrat dihidrat
+sodyum sitrat dihitrat
+sodyum sulfasetamid
+sodyum valproat
+sodyum zirkonyum siklosilikat
+sodyum hyaluronat
+sogan ekstresi
+sogan ekstresi (extractum cepae)
+solcoseryl
+solifenasin
+somapasitan
+somatostatin asetat
+somatrogon
+somatropin
+sonidegib difosfat
+sorafenib tosilat
+sorbitol
+sotorasib
+spesolimab
+spiramicin
+spiramisin
+spiramisin adipat
+spirinolakton
+spironolakton
+split virus or surface antigen
+split)
+streptomisin
+streptomisin sulfat
+stronsiyum lanelat
+stronsiyum ranelat
+strontium ranelat
+sugammadeks
+sukralfat
+sukraloz
+suksametonyum klorur
+sulbaktam
+sulbaktam 125mg
+sulbaktam 250mg
+sulbutiamine
+sulfamethoxazole and trimethoprim
+sulfametoksazol
+sulfametoksazol trimetoprim
+sulfasalazin
+sulfatkompleksi
+sulfisoksazol
+sulfometaksozol
+sulodexide
+sulpirid
+sulpride
+sultamicillin tosilat
+sultamisilin
+sultamisilin tosilat
+sultamisilin tosilat dihidrat
+sumitrin
+sunitinib baz
+sunitinib malat
+susuz essin
+susuz glukoz
+susuz sitrik asit
+syloid karisimi
+sympathomimetics
+synthetic anticholinergics
+tadafil
+tafamidis
+tafamidis meglumin
+takrolimus
+talazoparib tosilat
+taligluseraz alfa
+talyum klorur
+talyum klorur (201tlcl)
+tamoksifen
+tamoksifen sitrat
+tamoxifen sitrat
+tartarik asit
+tasiyici protein olarak tetanoz toksoidi
+taurin
+taurin- l-treonin
+tavsanlardan elde edilen anti insan t-lenfosit immunoglobulini
+tazaroten
+tazobaktam
+tazobaktam na
+tazobaktam sodyu
+teicoplanin
+teikoplanin
+tek zincirli koagulasyon faktoru viii)
+tekmisartan
+telmisartan and amlodipine
+telmi̇sartan
+temisartan
+temozolomid
+tenecteplase
+tenofovir alafenamid
+tenofovir alafenamid fumarat
+tenofovir alefenamid fumarat
+tenofovir disopoksilfumarat
+tenofovir disoproksil
+tenofovir disoproksil fumarat
+tenoksikam
+tent. de valeriane
+tent.de grateagus
+tent.de pasiflora
+teofilin
+teofilin anhidrat
+terbinafin
+terbutalin sulfat
+terbutalin sulfat guaifenesin
+terebentin esansi
+terebentin yagi
+teriflunomid
+teriparatid
+terlipressin asetat
+terramisin
+testosteron dekanoat
+testosteron fenilpropiyonat
+testosteron izokaproat
+testosteron propiyonat
+testosteron undekanoat
+tetanoz
+tetanoz proteinine konjuge edilmis olarak
+tetanoz toksoid tasiyici proteine konjuge
+tetanoz toksoidi
+tetanoz toksoidi (tt)
+tetanoz toksoidleri
+tetanus toxoid
+tetracycline hci
+tetrafloroborat (mibi)
+tetrahidroksi
+tetrahidrozolin
+tetrahydrozoline
+tetrakain
+tetrakis bakir (i)
+tetrasiklin
+tetrasiklin fosfat
+tetrasiklinhidroklorur
+tetrastatin
+tetravalent purified polysaccharides antigen conjugated
+tetrizolin
+texas
+tezepelumab
+thalidomid
+thiamine mononitrate (vitaminb1)
+thiamphenicol
+thioacetazone
+thymus vulgaris
+tiamfenikol
+tiamfenikol glisinat
+tiamin
+tiamin hcl (vitamin b1)
+tiamin hidroklorur (bi vitamini)
+tiamin hidroklorur (vitamin b1)
+tiamin mononitrat (vitamin b1)
+tiamine mononitrate (vitamin b1)
+tiaprofenik asit
+tiasetazon
+tibbi komur
+ticlopidin
+tigesiklin
+tikagrelor
+tiklopidin
+tilaktaz
+timol
+timolol maleat
+timolol maleate
+tinidazol
+tioguanin
+tiokol
+tiokonazol
+tioktik asit(alfa lipoik asit
+tiomersal
+tiotroniium bromur anhidrus
+tiotropium bromid
+tiotropium bromide
+tiotropium bromur
+tiotropium bromur anhidrus
+tiotropyum bromur anhidrus
+tip 2 (mef-1)
+tip 3 (saukett)
+tirofiban baz
+tirofiban hidrokloru
+tirofiban hidroklorur
+tirofiban(baz
+tirotropin alfa
+tirozin
+tirzepatid
+tiyamazol (metimazol)
+tiyoklosikosid
+tiyoklosikozit
+tiyokol
+tiyokolsikosid
+tiyokolsikosit
+tiyokolsikozid
+tiyokolsikozit
+tiyokonazol
+tiyopental
+tiyotepa
+tizanidin
+ti̇molol maleat
+tmt
+tobramisin
+tocilizumab
+tocopherol (vit e)
+tofasitinib sitrat
+tolnaftat
+tolperison
+tolterodin
+tolterodin hidrojen tartarat
+tolterodin tartarat
+tolterodine l-tartarat
+topiramat
+topotekan
+topotekan hci
+torasemid
+trabektedin
+tramadolhidroklorur
+trandolapril and verapamil
+traneksamik asit
+trastuzuma
+trastuzumab
+trastuzumab derukstekan
+trastuzumab emtansine
+trazodon
+tremelimumab
+treonin
+treosulfan
+tretionin
+trialuminyum dioksit
+triamsinolon asetonid
+triamsinolon asetonid (mikronize)
+triamsinolon asetonit
+triamsinolon bekzasetonid
+triamteren
+tribenosid
+tribenosid lidokain
+trientin
+trifluoperazin
+trifluoperazin hidroklorid
+triklozan
+trimebutin
+trimebutin baz
+trimebutin maleat
+trimebutine maleat
+trimetazidin
+trimetazidin dihidroklorur
+trimethobenzamit
+trimetobenzamid
+trimetobenzamit
+trimetoprim
+trinitrinin
+triprolidin
+triptofan
+triptorelin asetat
+trisodyum sitrat
+trisodyum sitrat dihidrat
+triticum vulgare
+triticum vulgareninsulu ekstresi
+troid hormon
+trokserutin
+trombin
+tropikamid
+trospium klorur
+trospiyum klorur
+tuberculosis
+tuberkulin saflastirilmis protein turevi
+tukatinib
+tulobuterol
+turkey
+turoktokog alfa (rekombinant insan koagulasyon faktoru)
+turoktokog alfa pegol
+tyr3-oktreotid] trifloroasetat (hynic-toc)
+ulipristal asetat
+umeklidinyum bromur
+undecylenic acid
+undesilenik asit
+upadasitinib
+upadasitinib hemihidrat
+urapidil
+ure
+urofollitropin
+ursedooksikolik asit
+ursodeoksikolik asit
+ursodeoksikolik asit pellet
+urtica dioica
+urtika ekstresi
+ustekinumab
+valasiklovir
+valetamat bromur
+valgansiklovir
+valin
+valproik asit
+valsartan and amlodipine
+valsartan and diuretics
+valsartan disodyum
+vankomisin
+vardenafil hidroklorur trihidrat
+vareniklin tartarat
+varicella
+various
+various alimentary tract and metabolism products
+various combinations
+varisella zoster virusu glikoprotein e antijeni
+vazelin likid
+vazopressin asetat
+vedolizumab
+vekuronyum bromur
+velagluseraz alfa
+venetoklaks
+venlafaksin
+vericiguat
+vero hucresi
+vestronidaz alfa
+vii
+vilanterol trifenatat
+vilazodon
+vinblastin sulfat
+vinflunin ditartarat
+vinkristin sulfat
+vinorelbin tartarat
+vipera ammodytes
+vipera ammodytes yilan venomuna karsini̇mmunoglobuli̇n f(ab')2 fragmanlari (atkokenli̇)
+virozom)
+vit c
+vit d3
+vit. d3
+vitamin a (retinol palmitat)
+vitamin a palmitat
+vitamin a palmitat (retinol palmitat) 20.000 iu
+vitamin b
+vitamin b 6 (pridoksin hidroklorur)
+vitamin b kompleksi
+vitamin b-complex
+vitamin b-complex with vitamin c
+vitamin b1
+vitamin b1 (tiamin hcl)
+vitamin b1 (tiamin hidroklorur)
+vitamin b1 in combination with vitamin b6 and
+vitamin b1-vitamin b6-vitamin b12-tioktik asit
+vitamin b12
+vitamin b12 (siyanokobalamin)
+vitamin b12 and folic acid
+vitamin b12(metilkobalamin
+vitamin b2
+vitamin b2 (riboflavin sodyum fosfat)
+vitamin b3 (niasinamit
+vitamin b5 (d-pantenol
+vitamin b6
+vitamin b6 (piridoksin hcl)
+vitamin b7
+vitamin c (askorbik asit)
+vitamin d (kolekalsiferol)
+vitamin d 3
+vitamin d2
+vitamin d3
+vitamin d3 (kolekalsiferol
+vitamin d3 (kolekalsiferol)
+vitamin d3 genistein
+vitamin d3 kolekalsiferol
+vitamin d3 toz
+vitamin e (alfa tokoferil asetat)
+vitamin e (dl alfa tokoferol asetat)
+vitamin e asetat (dl-alfa tokoferil asetat)
+vitamin k1
+vitamin k1 ( fitomenadion)
+vitamin kombinasyonu
+vitamin kompleksi
+vitamin-c
+vitamin-e acetate
+vitaminb12(siyanokobalamin)
+vitamins
+vitamins with minerals
+vitis vinifera
+vogliboz
+voksilaprevir
+von willebrand faktoru
+vorikonazol
+vortioksetin hbr
+vortioksetin hidrobromur
+vortioksetin hidrobromur 2-butanol solvat
+vortioksetin hidroklour
+w-135
+w135
+wart and anti-corn preparations
+x ile protein c
+x ile protein c)
+y gruplarinin saflastirilmis polisakkaritleri
+yabanil tip) benzeri sus
+yuzey antijeni
+zanamivir
+zerdecal
+zidovudin
+zilukoplan
+zinc sulfate heptahydrate
+zinc undesilinat
+zink pirition
+ziprasidon
+zofenopril kalsiyum
+zoledronik asit
+zonisamid
+zopiklon
+zuklopentiksol dihidroklorur

@@ -1,0 +1,9 @@
+{
+  "total_sgk_drugs": 23898,
+  "total_sgk_ingredients": 13,
+  "total_ddi_interactions": 222696,
+  "tr_ddi_interactions": 1,
+  "coverage_percent": 30.76923076923077,
+  "matched_ingredients": 4,
+  "unmatched_ingredients": 9
+}

@@ -1,0 +1,19 @@
+{
+  "task": "turkish_to_english_drug_mapping",
+  "instructions": "Her Türkçe ilaç etken maddesinin İngilizce INN (International Nonproprietary Name) karşılığını ver. Tuz formlarını (örn. TROMETAMOL, HİDROKLORÜR) ayır ve ana etken maddeyi döndür.",
+  "input": [
+    "ASETILSALISILIK ASIT",
+    "DEKSAMETAZON",
+    "DIAZEPAM",
+    "DIKLOFENAK",
+    "FUROSEMID",
+    "IBUPROFEN",
+    "KALSIYUM",
+    "METOPROLOL",
+    "MORFIN",
+    "POTASYUM KLORUR",
+    "SODYUM KLORUR",
+    "VARFARIN",
+    "VITAMIN B12"
+  ]
+}

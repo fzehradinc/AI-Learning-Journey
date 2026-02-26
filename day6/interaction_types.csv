@@ -1,0 +1,112 @@
+interaction_type,count,percentage
+risk or severity of adverse effects,358132,25.82
+metabolism,285952,20.62
+serum concentration,268252,19.34
+therapeutic efficacy,84649,6.1
+hypotensive activities,52506,3.79
+QTc-prolonging activities,50920,3.67
+antihypertensive activities,43710,3.15
+central nervous system depressant (CNS depressant) activities,21835,1.57
+anticoagulant activities,20943,1.51
+vasoconstricting activities,17730,1.28
+risk or severity of hypotension,15623,1.13
+hypoglycemic activities,14686,1.06
+sedative activities,14314,1.03
+orthostatic hypotensive activities,10457,0.75
+neuroexcitatory activities,10453,0.75
+antiplatelet activities,8714,0.63
+nephrotoxic activities,8025,0.58
+excretion rate of higher serum level,7424,0.54
+bradycardic activities,7322,0.53
+serotonergic activities,7224,0.52
+absorption,7141,0.51
+risk or severity of QTc prolongation,5918,0.43
+hypokalemic activities,5549,0.4
+immunosuppressive activities,4792,0.35
+cardiotoxic activities,4437,0.32
+thrombogenic activities,4425,0.32
+atrioventricular blocking (AV block) activities,4252,0.31
+serum concentration of active metabolites,3820,0.28
+bioavailability,3417,0.25
+tachycardic activities,2770,0.2
+hypertensive activities,2681,0.19
+stimulatory activities,2395,0.17
+fluid retaining activities,1954,0.14
+bronchodilatory activities,1863,0.13
+hyperkalemic activities,1387,0.1
+arrhythmogenic activities,1299,0.09
+neuromuscular blocking activities,1280,0.09
+risk or severity of hypotension and neuromuscular blockade,1195,0.09
+hyponatremic activities,1008,0.07
+risk or severity of heart failure,986,0.07
+risk or severity of bleeding,945,0.07
+excretion,906,0.07
+hypertensive and vasoconstricting activities,903,0.07
+risk or severity of rhabdomyolysis,889,0.06
+antipsychotic activities,824,0.06
+anticholinergic activities,814,0.06
+vasodilatory activities,647,0.05
+diagnostic agent,635,0.05
+risk or severity of hyperkalemia,611,0.04
+respiratory depressant activities,598,0.04
+risk or severity of angioedema,567,0.04
+analgesic activities,525,0.04
+adverse neuromuscular activities,495,0.04
+hypocalcemic activities,467,0.03
+myopathic rhabdomyolysis activities,391,0.03
+central neurotoxic activities,387,0.03
+hepatotoxic activities,366,0.03
+risk or severity of ventricular arrhythmias,364,0.03
+ulcerogenic activities,347,0.03
+risk or severity of edema formation,308,0.02
+risk or severity of myelosuppression,306,0.02
+risk or severity of myopathy,280,0.02
+excretion rate,257,0.02
+myelosuppressive activities,228,0.02
+risk or severity of myopathy and rhabdomyolysis,218,0.02
+constipating activities,200,0.01
+ototoxic activities,157,0.01
+risk or severity of fluid retention,154,0.01
+vasopressor activities,121,0.01
+hyperglycemic activities,116,0.01
+risk or severity of congestive heart failure and hypotension,101,0.01
+risk of hypersensitivity reaction to,80,0.01
+risk or severity of ototoxicity and nephrotoxicity,73,0.01
+central nervous system depressant (CNS depressant) and hypertensive activities,69,0.0
+"risk or severity of myopathy, rhabdomyolysis, and myoglobinuria",68,0.0
+risk or severity of renal failure and hyperkalemia,66,0.0
+diuretic activities,66,0.0
+protein binding,66,0.0
+hypercalcemic activities,65,0.0
+risk or severity of hypokalemia,63,0.0
+dermatologic adverse activities,62,0.0
+risk or severity of anemia and severe leukopenia,58,0.0
+bronchoconstrictory activities,58,0.0
+risk or severity of severe leukopenia,46,0.0
+risk or severity of sedation and somnolence,44,0.0
+risk or severity of bradycardia,38,0.0
+risk or severity of renal failure and rhabdomyolysis,38,0.0
+"risk or severity of rhabdomyolysis, myoglobinuria, and elevated creatine kinase (CPK)",37,0.0
+risk or severity,31,0.0
+"hypotensive, nephrotoxic, and hyperkalemic activities",30,0.0
+"risk or severity of hypotension, nitritoid reactions, facial flushing, nausea, and vomiting",30,0.0
+absorption of reduced serum concentration and potentially,29,0.0
+hypotensive and central nervous system depressant (CNS depressant) activities,27,0.0
+risk or severity of convulsion,27,0.0
+risk or severity of generalized seizure and bradycardia,26,0.0
+risk or severity of hyponatremia,20,0.0
+neurotoxic activities,16,0.0
+"risk or severity of QTc prolongation, torsade de pointes, hypokalemia, hypomagnesemia, and cardiac arrest",13,0.0
+risk or severity of serotonin syndrome,12,0.0
+risk or severity of hypertension,12,0.0
+risk or severity of renal failure,10,0.0
+thrombocytopenic activities,7,0.0
+risk or severity of intraocular pressure,6,0.0
+neutropenic activities,6,0.0
+risk or severity of generalized seizure,5,0.0
+risk or severity of pulmonary toxicity,5,0.0
+risk or severity of sinus node depression,4,0.0
+photosensitizing activities,4,0.0
+hypotensive activities of at,3,0.0
+risk or severity of QTc prolongation and torsade de pointes,3,0.0
+teratogenic activities,2,0.0

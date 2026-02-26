@@ -1,0 +1,35 @@
+<html>
+
+<head>
+</head>
+
+<body>
+    <form action="/predict" method="post">
+        <table>
+            <tr>
+                <td>İsim</td>
+                <td><input type="text" name="isim"></td>
+            </tr>
+            <tr>
+                <td>Tecrübe</td>
+                <td><input type="text" name="tecrube"></td>
+            </tr>
+            <tr>
+                <td>Yazili</td>
+                <td><input type="text" name="yazili"></td>
+            </tr>
+            <tr>
+                <td>Mulakat</td>
+                <td><input type="text" name="mulakat"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="Submit" value="Tahmin Et"></td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <h3>{{ tahmin }}</h3>
+</body>
+
+</html>

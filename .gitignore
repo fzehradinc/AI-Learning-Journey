@@ -1,0 +1,8 @@
+# Büyük dosyalar
+*.keras
+*.mp4
+*.h5
+day6/tr_inferred_ddi*.csv
+day6/dataset_ilac_tr_ddi_etkilesim/
+*.ipynb_checkpoints/
+**/.ipynb_checkpoints/
